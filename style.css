@@ -40,11 +40,21 @@ body{
     margin: 25px;
 }
 
+.img {
+    display: flex;
+    justify-content: space-around;
+    
+}
+
 .foto {
     width: 250px;
     height: 250px;
 }
 
-.card-resumo {
-    display: flex;
+.resumo {
+    align-items: center;
+}
+
+.h1 {
+    align-items: center;
 }
