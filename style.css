@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+body{
+    border: 2px solid royalblue;
+    background: grey;
+    font-family: 'Poppins', sans-serif;
+}
+
+.card-central{
+    background: rgb(6, 119, 122);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 25px;
+}
+
+.menu {
+    background: rgb(207, 121, 8)
+}
+
+.a{
+    display: flex;
+    justify-content: space-around;
+}
+
+.card-central {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.imagens {
+    display: flex;
+    width: 50%;
+    justify-content: space-evenly;
+    margin: 25px;
+}
+
+.foto {
+    width: 250px;
+    height: 250px;
+}
+
+.card-resumo {
+    display: flex;
+}
